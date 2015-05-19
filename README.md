@@ -1,2 +1,2 @@
 # joetestbits
-test bits from Joe
+test bits from Joe - A test repository
